@@ -8,5 +8,5 @@ O bubble sort, ou ordenação por flutuação (literalmente "por bolha"), é um 
 No melhor caso, o algoritmo executa n n operações relevantes, onde n n representa o número de elementos do vector. No pior caso, são feitas n 2 n^2 operações. A complexidade desse algoritmo é de ordem quadrática. Por isso, ele não é recomendado para programas que precisem de velocidade e operem com quantidade elevada de dados.
 fonte: https://pt.wikipedia.org/wiki/Bubble_sort acessado 27/01/2023
 
-#video
+# video
 https://www.youtube.com/watch?v=mI9APNg972Y
